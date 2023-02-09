@@ -4,6 +4,7 @@
 }
 
 .maxWidthWrapper {
+  position: relative; /* Allow fixed-positioned characterWrapper from CharacterEditor to be rendered below */
 }
 
 .header {
